@@ -1,0 +1,1 @@
+source createUserActivityLogs.sql
